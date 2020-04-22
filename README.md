@@ -1,2 +1,2 @@
-# Advaita-Edu
-An online learning platform
+ADVAITA-EDU
+Templates for online learning platform.
